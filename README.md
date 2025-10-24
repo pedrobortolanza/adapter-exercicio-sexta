@@ -197,6 +197,7 @@ Isso mostra que a arquitetura está bem desacoplada.
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Diagrama
 
-Trabalho acadêmico demonstrando padrões de projeto (Adapter + Factory Method) aplicados na integração com redes sociais.
+<img width="1210" height="669" alt="image" src="https://github.com/user-attachments/assets/a84995c9-8515-4a89-bd56-ab142ddf6b0c" />
+
